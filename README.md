@@ -15,18 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Projects I worked on:
-  
-  Shooter Game:
-  https://github.com/MBatista18/ShooterGame
-  - This project was to get us introduced to coding a game.
-  - I worked on enemy behaviors and creating a collectible coin.
 
-  Haunted Jaunt:
-  https://github.com/MBatista18/HauntedJaunt
-  - This project allowed us to make a game and then modify the code.
-  - I worked on a sprint button and a countdown timer.
-
-  RedHanded:
+  Redhanded – Small Stealth Game Team Project (Unity):
   https://github.com/QueenLuna13/RedHanded
-  - This project was a game where you played as a thief, sneaking around guards to steal an art piece.
-  - I worked on the player controls and the AI for the guards.
+  -	Scripted AI behavior, player movement, and game over detection systems.
+  -	Designed and prototyped level layouts focused on stealth mechanics.
+  -	Collaborated with a small team using GitHub version control.
+
+
+  The Cursed Cathedral – Small Action Level (Unreal):
+  
+-	Designed a combat-focused level emphasizing progression, platforming, and enemy encounters.
+-	Created a top-down 2D map to guide level construction.
+-	Staged and modified Unreal Engine assets to build a cohesive gameplay experience.
